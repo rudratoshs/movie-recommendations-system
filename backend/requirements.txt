@@ -1,8 +1,0 @@
-Flask
-pandas
-scikit-learn
-Werkzeug
-numpy
-scipy
-joblib
-threadpoolctl
